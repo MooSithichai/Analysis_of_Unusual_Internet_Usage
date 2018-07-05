@@ -1,0 +1,10 @@
+1. Run input_by_user.py 
+	- Change Directory, Log Folder , File ,File Output name inside code
+2.Run map_unicode.py
+	- Use File output from 1. to be input
+3.Run sequence_group.py
+	- Use File output from 1.,2. to be input
+4.Run revers.py
+	- to change unicode to normal sequence
+5.Run count_num_ingroup.py
+	- to count sequence in groups
